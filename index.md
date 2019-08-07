@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Clothing
+Synthetic or wool. Cotton is fine but know it absorbs moisture and doesn't dry quickly.
 
-You can use the [editor on GitHub](https://github.com/andrewtaehoon/andrewtaehoon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [ ] Socks
+- [ ] Sunglasses
+- [ ] Clothes to sleep in - could just be camp clothes
+- [ ] Warm jacket at night - puffy or warm jacket
+- [ ] Rain jacket
+- [ ] Hat
+- [ ] Swimwear - The lake is pretty awesome
+- [ ] Towel
+- [ ] Camp shoes - comfortable shoes or slippers
+- [ ] Shirt
+- [ ] Underwear
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Gear
+- [ ] Backpack - 50-75L. The larger the pack, the easier to pack. It won't be a difficult hike so weight shouldn't be too much of concern. I'd recommend 60-65L.
+- [ ] 3-season sleeping bag
+- [ ] Water bottle
+- [ ] Headlamp or flashlight
+- [ ] Toothbrush
+- [ ] Toothpaste
+- [ ] Basic toiletry - Goat Lake's campsite does have an open toilet
+- Bugout bag - Your essentials. Mine includes a compass, thermometer, pencil, tiny bright post-its, duct tape, lighter, candle, iodine pills (backup water purifying), knife, multitool, paracord, emergency blanket, advil, aluminum foil, name tag/ID
+- [ ] Food - Get some "just add hot water" food from REI. I recommend testing them ***BEFORE*** the trip.
 
-### Markdown
+# Shared Gear
+- [ ] Tent
+- [ ] Tent poles
+- [X] Medkit - I have a 1-2 person medkit
+- [X] Stove - I have a small stove and I'll bring some extra canisters. No campfires unfortunately.
+- [X] Cookware - I can bring a small cook set
+- [X] Bug spray
+- [X] Sunscreen
+- [X] Water filter - I have a 4L one and an emergency 1L
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrewtaehoon/andrewtaehoon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Optional Stuff
+- [ ] Inflatable pillow
+- [ ] Hiking poles
+- [ ] Things to pass the time i.e. books, cards, etc.
+- [ ] Gloves
