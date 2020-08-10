@@ -11,7 +11,7 @@ Synthetic or wool. Cotton is fine but know it absorbs moisture and doesn't dry q
 - [ ] Shirt (extra recommended)
 - [ ] Underwear (extra recommended)
 - [ ] Swimwear (optional)
-- [ ] Towel (optional)
+- [ ] Towel - The RV campground has showers
 
 # Gear
 - [ ] Backpack - 50-75L. The larger the pack, the easier to pack. It won't be a difficult hike so weight shouldn't be too much of concern. I'd recommend 60-65L.
