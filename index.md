@@ -21,7 +21,7 @@ Synthetic or wool. Cotton is fine but know it absorbs moisture and doesn't dry q
 - [ ] Headlamp/flashlight
 - [ ] Toothbrush
 - [ ] Toothpaste
-- [ ] Basic toiletry - Goat Lake's campsite does have an open toilet
+- [ ] Basic toiletry - Cleanwaste GO Anywhere Toilet Kit Waste Bag 
 - Essential bag - The essentials if you're in a less than ideal situation: compass, pencil, tiny bright post-its, duct tape, lighter, iodine pills (backup water purifying), knife/multi-tool, paracord, emergency bevy/blanket, NSAID, name tag/ID, battery pack and charging cable(s)
 - [ ] Food - Get some "just add hot water" food from REI. I recommend testing them ***BEFORE*** the trip.
 - [ ] Medication (if applicable)
@@ -31,7 +31,7 @@ Synthetic or wool. Cotton is fine but know it absorbs moisture and doesn't dry q
 - [ ] Tent poles
 - [X] Medkit - I have a 1-2 person medkit
 - [X] Stove - I have a small stove and I'll bring some extra canisters
-- [ ] Cookware - I can bring a small cook set
+- [ ] Cookware
 - [ ] Bug spray
 - [ ] Sunscreen
 - [X] Water filter - I have a 4L one and an emergency 1L
