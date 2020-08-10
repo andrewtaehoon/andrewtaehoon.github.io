@@ -1,37 +1,39 @@
 # Clothing
 Synthetic or wool. Cotton is fine but know it absorbs moisture and doesn't dry quickly.
 
-- [ ] Socks
+- [ ] Socks (extra recommended)
 - [ ] Sunglasses
 - [ ] Clothes to sleep in - could just be camp clothes
 - [ ] Warm jacket at night - puffy or warm jacket
 - [ ] Rain jacket
 - [ ] Hat
-- [ ] Swimwear - The lake is pretty awesome
-- [ ] Towel
 - [ ] Camp shoes - comfortable shoes or slippers
-- [ ] Shirt
-- [ ] Underwear
+- [ ] Shirt (extra recommended)
+- [ ] Underwear (extra recommended)
+- [ ] Swimwear (optional)
+- [ ] Towel (optional)
 
 # Gear
 - [ ] Backpack - 50-75L. The larger the pack, the easier to pack. It won't be a difficult hike so weight shouldn't be too much of concern. I'd recommend 60-65L.
 - [ ] 3-season sleeping bag
+- [ ] 3-season sleeping pad
 - [ ] Water bottle
-- [ ] Headlamp or flashlight
+- [ ] Headlamp/flashlight
 - [ ] Toothbrush
 - [ ] Toothpaste
 - [ ] Basic toiletry - Goat Lake's campsite does have an open toilet
-- Bugout bag - Your essentials. Mine includes a compass, thermometer, pencil, tiny bright post-its, duct tape, lighter, candle, iodine pills (backup water purifying), knife, multitool, paracord, emergency blanket, advil, aluminum foil, name tag/ID
+- Essential bag - The essentials if you're in a less than ideal situation: compass, pencil, tiny bright post-its, duct tape, lighter, iodine pills (backup water purifying), knife/multi-tool, paracord, emergency bevy/blanket, NSAID, name tag/ID, battery pack and charging cable(s)
 - [ ] Food - Get some "just add hot water" food from REI. I recommend testing them ***BEFORE*** the trip.
+- [ ] Medication (if applicable)
 
 # Shared Gear
 - [ ] Tent
 - [ ] Tent poles
 - [X] Medkit - I have a 1-2 person medkit
-- [X] Stove - I have a small stove and I'll bring some extra canisters. No campfires unfortunately.
-- [X] Cookware - I can bring a small cook set
-- [X] Bug spray
-- [X] Sunscreen
+- [X] Stove - I have a small stove and I'll bring some extra canisters
+- [ ] Cookware - I can bring a small cook set
+- [ ] Bug spray
+- [ ] Sunscreen
 - [X] Water filter - I have a 4L one and an emergency 1L
 
 # Optional Stuff
@@ -39,3 +41,6 @@ Synthetic or wool. Cotton is fine but know it absorbs moisture and doesn't dry q
 - [ ] Hiking poles
 - [ ] Things to pass the time i.e. books, cards, etc.
 - [ ] Gloves
+- [ ] Hammock
+- [ ] Camping chair
+- [ ] bug net/suit
